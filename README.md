@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Alriya Treeza D Souza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/2881732.jpg">
+<img align="right" alt="Coding" width="300" height="300" src="https://media.licdn.com/dms/image/D5603AQEjaHQVZGzGyw/profile-displayphoto-shrink_200_200/0/1674983696135?e=1689206400&v=beta&t=MgbxPvLxvcNrODf7LOSX2TQs5sXElUAeBhWDk8IZnHE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
 
