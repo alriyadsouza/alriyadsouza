@@ -23,6 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact" alt="alriyadsouza" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en" alt="alriyadsouza" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&" alt="alriyadsouza" /></p>
