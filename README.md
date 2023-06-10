@@ -1,7 +1,7 @@
 [![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
-<h1 align="center">Hi 👋, I'm Alriya Treeza D Souza</h1>
+<h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://media.licdn.com/dms/image/D5603AQEjaHQVZGzGyw/profile-displayphoto-shrink_200_200/0/1674983696135?e=1689206400&v=beta&t=MgbxPvLxvcNrODf7LOSX2TQs5sXElUAeBhWDk8IZnHE">
+<img align="right" alt="Coding" width="300" height="450" src="https://github.com/alriyadsouza/alriyadsouza/assets/109797633/71e3f5be-d1ac-4d40-8248-371a33bdb07e?e=1689206400&v=beta&t=MgbxPvLxvcNrODf7LOSX2TQs5sXElUAeBhWDk8IZnHE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
 
