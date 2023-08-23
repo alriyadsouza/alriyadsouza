@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/alriya3" target="blank"><img src="https://img.shields.io/twitter/follow/alriya3?logo=twitter&style=for-the-badge" alt="alriya3" /></a> </p> -->
 
 <p align="center">
-👨‍💻 All of my projects are available at [https://alriya-treeza-dsouza.vercel.app/](https://alriya-treeza-dsouza.vercel.app/)</p>
+👨‍💻 All of my projects are available at https://alriya-treeza-dsouza.vercel.app/</p>
 <p align="center">
 📫 How to reach me **alriyatreeza929@gmail.com**
 </p>
