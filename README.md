@@ -83,12 +83,14 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alriyadsouza" /></p>
+<h3 align="center">Most Languages Used</h3>
+<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alriyadsouza" /></p>
 
-<h3 align="left">Alriya's Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=tokyonight" alt="alriyadsouza" /></p>
+<h3 align="center">Alriya's Github Stats</h3>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=tokyonight" alt="alriyadsouza" /></p>
 
-<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight"/>
+<h3 align="center">Trophies</h3>
+<p align='center'><img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight"/></p>
 
-<h3 align="left">Alriya's Github Streak Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&&theme=tokyonight" alt="alriyadsouza" /></p>
+<h3 align="center">Alriya's Github Streak Stats</h3>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&&theme=tokyonight" alt="alriyadsouza" /></p>
