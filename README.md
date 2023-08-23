@@ -2,15 +2,17 @@
 <h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=alriyadsouza&data=followers,repositories,stars,commits'>
+</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
+<p align="left"> <a href="https://twitter.com/alriya3" target="blank"><img src="https://img.shields.io/twitter/follow/alriya3?logo=twitter&style=for-the-badge" alt="alriya3" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
+<p align="center">
+👨‍💻 All of my projects are available at [https://alriya-treeza-dsouza.vercel.app/](https://alriya-treeza-dsouza.vercel.app/)
 
-<p align="left"> <a href="https://twitter.com/alriya3" target="blank"><img src="https://img.shields.io/twitter/follow/alriya3?logo=twitter&style=for-the-badge" alt="alriya3" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://alriya-treeza-dsouza.vercel.app/](https://alriya-treeza-dsouza.vercel.app/)
-
-- 📫 How to reach me **alriyatreeza929@gmail.com**
-
+📫 How to reach me **alriyatreeza929@gmail.com**
+</p>
 <h2 align="center">Connect with me</h2>
 <p align="center">
   <a href="https://twitter.com/alriya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alriya3" height="30" width="40" /></a>
@@ -68,10 +70,11 @@
 </p>
 <br>
 <h2 align="center">Stats and Achievements:</h2>
-<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alriyadsouza" /></p>
 
+<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alriyadsouza" /></p>
+<br><br>
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=tokyonight" alt="alriyadsouza" /></p>
 
-<p align='center'><img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight"/></p>
+<p align='center'><img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight&column=8"/></p>
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&&theme=tokyonight" alt="alriyadsouza" /></p>
