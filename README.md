@@ -2,6 +2,7 @@
 <h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[<img align="center" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=alriyadsouza&data=followers,repositories,stars,commits'>
 </p>
