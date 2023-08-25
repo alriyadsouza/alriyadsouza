@@ -65,4 +65,4 @@
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=tokyonight" alt="alriyadsouza" /></p>
 <p align='center'><img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight&column=8"/></p>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&&theme=tokyonight" alt="alriyadsouza" /></p>
-<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> [Follow Me on Github](https://github.com/alriyadsouza)<br/>
+<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a src="https://github.com/alriyadsouza">Follow Me on Github</a></p><br/>
