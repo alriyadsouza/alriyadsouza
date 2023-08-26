@@ -1,6 +1,6 @@
 [![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
 <h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer :octocat: from India</h3>
 <p align='center'>
 <img align="center" width="150" alt="🦑" src="https://count.getloli.com/get/@:alriyadsouza?theme=rule34">
 <br>
@@ -66,4 +66,4 @@
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=tokyonight" alt="alriyadsouza" /></p>
 <p align='center'><img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight&column=8"/></p>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&&theme=tokyonight" alt="alriyadsouza" /></p>
-<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a src="https://github.com/alriyadsouza">Follow Me on Github</a></p><br/>
+<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p><br/>
