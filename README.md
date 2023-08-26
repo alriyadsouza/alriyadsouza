@@ -8,12 +8,16 @@
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
 <p align="left"> <a href="https://twitter.com/alriya3" target="blank"><img src="https://img.shields.io/twitter/follow/alriya3?logo=twitter&style=for-the-badge" alt="alriya3" /></a> </p> -->
+<div align="center">
+    <h3>👨‍💻 Explore My Projects</h3>
+    <p>Check out my portfolio of projects at <a href="https://alriya-treeza-dsouza.vercel.app/">https://alriya-treeza-dsouza.vercel.app/</a></p>
+</div>
 
-<p align="center">
-👨‍💻 All of my projects are available at https://alriya-treeza-dsouza.vercel.app/</p>
-<p align="center">
-📫 How to reach me **alriyatreeza929@gmail.com**
-</p>
+<div align="center">
+    <h3>📫 Let's Connect</h3>
+    <p>Feel free to reach out to me at <strong>alriyatreeza929@gmail.com</strong></p>
+</div>
+
 <h2 align="center">Connect with me</h2>
 <p align="center">
   <a href="https://twitter.com/alriya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alriya3" height="30" width="40" /></a>
