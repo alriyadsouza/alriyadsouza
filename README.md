@@ -4,7 +4,7 @@
 <p align='center'>
 <img align="center" width="150" alt="🦑" src="https://count.getloli.com/get/@:alriyadsouza?theme=rule34">
 <br>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=alriyadsouza&data=followers,repositories,stars,commits'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=alriyadsouza&theme=tokyonight&data=repositories,stars,commits'>
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
 <p align="left"> <a href="https://twitter.com/alriya3" target="blank"><img src="https://img.shields.io/twitter/follow/alriya3?logo=twitter&style=for-the-badge" alt="alriya3" /></a> </p> -->
