@@ -4,7 +4,7 @@
 </div>
 <hr style="line:0.1px solid yellow;">
 <div align="center"> 
-        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=A+PASSIONATE+APP+DEVELOPER" alt="my github stats svg" />
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=350&height=21&lines=A+PASSIONATE+APP+DEVELOPER" alt="my github stats svg" />
 </div>
 <br>
 <p align='center'>
