@@ -21,8 +21,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Install n package
+        run: npm install -g n && echo "N_PREFIX=${HOME}/n" >> $GITHUB_ENV
+
       - name: Use Node.js 16.x
-        run: npm install -g n && n 16
+        run: n 16
 
       - name: Generate the snake
         uses: Platane/snk@master
