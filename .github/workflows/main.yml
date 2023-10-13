@@ -8,7 +8,7 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
     - main
@@ -29,11 +29,12 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           extra_colors: "github-dark"
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # the content will be available at https://github.com/alriyadsouza/alriyadsouza/tree/output
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
+          repository: alriyadsouza/alriyadsouza
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
