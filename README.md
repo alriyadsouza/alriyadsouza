@@ -1,3 +1,5 @@
+<p align='center' color='yellow'>
+
 [![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
 <h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
 <h3 align="center">A passionate App developer :octocat: from India</h3>
@@ -59,11 +61,29 @@
   </a>
 </p>
 <br>
-<h2 align="center">Stats and Achievements:</h2>
-
-<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alriyadsouza" /></p>
-<br><br>
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=tokyonight" alt="alriyadsouza" /></p>
-<p align='center'><img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=tokyonight&column=8"/></p>
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alriyadsouza&&theme=tokyonight" alt="alriyadsouza" /></p>
-<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p><br/>
+<!--My github stats-->
+<div align="center"> 
+    <img loading="lazy" width="21" align="center" src="https://github.com/alriyadsouza/alriyadsouza/assets/109797633/7e961344-c1c2-46e0-9131-f5481f604ea0" alt="pie chart png" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+</div>
+<!--languages-->
+<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117" alt="alriyadsouza" /></p>
+<!--grade-->
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117" alt="alriyadsouza" /></p>
+<!--Trophy-->
+<div align="center">
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=radical&no-bg=true&no-frame=true&row=3&column=4&rank=SSS,SS,S,AAA,AA,A,B"  alt="github profile trophy"/>
+</div><br>
+<!--Streak-->
+<p align='center'><img loading="lazy" src="https://github-readme-streak-stats-montasim.vercel.app/?user=alriyadsouza&hide_border=true&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=yellow&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=yellow&sideLabels=yellow&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /></p><br>
+<!--Graph-->
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=alriyadsouza&bg_color=0d1117&color=00b8b5&line=f6fa00&point=232957&area=true&hide_border=true&hide_title=true">
+</div>
+<!--Follow-->
+<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p>
+<!--Wave-->
+<div align="center">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+</p>
