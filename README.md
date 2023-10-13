@@ -67,9 +67,9 @@
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!--languages-->
-<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117" alt="alriyadsouza" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--grade-->
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117" alt="alriyadsouza" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--Trophy-->
 <div align="center">
     <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=radical&no-bg=true&no-frame=true&row=3&column=4&rank=SSS,SS,S,AAA,AA,A,B"  alt="github profile trophy"/>
