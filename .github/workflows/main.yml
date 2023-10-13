@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -38,7 +37,8 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           cd dist
+          rm -rf .git
           git init
           git add .
           git commit -m "Update snake animations"
-          git push https://${PERSONAL_ACCESS_TOKEN}@github.com/alriyadsouza/alriyadsouza.git master
+          git push https://${PERSONAL_ACCESS_TOKEN}@github.com/alriyadsouza/alriyadsouza.git HEAD:main
