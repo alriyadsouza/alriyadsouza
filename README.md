@@ -1,5 +1,5 @@
 <p align='center' color='yellow'>
-    
+
 [![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
 <h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
 <h3 align="center">A passionate App developer :octocat: from India</h3>
