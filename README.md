@@ -1,4 +1,4 @@
-
+[![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
 <div align="center"> 
         <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=500&height=40&lines=SALUTATIONS+👋+,+ALRIYA+TREEZA+D+SOUZA!" alt="my github stats svg" />
 </div>
