@@ -1,6 +1,5 @@
 <p align='center' color='yellow'>
     
-![Snake animation](https://github.com/alriyadsouza/alriyadsouza/blob/output/github-contribution-grid-snake.svg)
 [![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
 <h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
 <h3 align="center">A passionate App developer :octocat: from India</h3>
@@ -80,6 +79,13 @@
 <!--Graph-->
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=alriyadsouza&bg_color=0d1117&color=00b8b5&line=f6fa00&point=232957&area=true&hide_border=true&hide_title=true">
+</div>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alriyadsouza/alriyadsouza/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 <!--Follow-->
 <p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p>
