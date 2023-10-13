@@ -1,33 +1,42 @@
 <p align='center' color='yellow'>
 
 [![An image of @alriya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alriya)](https://holopin.io/@alriya)
-<h1 align="center">Salutations 👋, Alriya Treeza D Souza!</h1>
-<h3 align="center">A passionate App developer :octocat: from India</h3>
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=500&height=40&lines=SALUTATIONS+👋+,+ALRIYA+TREEZA+D+SOUZA!" alt="my github stats svg" />
+</div>
+<hr style="line:0.1px solid yellow;">
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=A+PASSIONATE+APP+DEVELOPER" alt="my github stats svg" />
+</div>
+<br>
 <p align='center'>
 <img align="center" width="150" alt="🦑" src="https://count.getloli.com/get/@:alriyadsouza?theme=rule34">
 <br>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=alriyadsouza&theme=nautilus&data=repositories,stars,commits'>
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alriyadsouza&label=Profile%20views&color=0e75b6&style=flat" alt="alriyadsouza" /> </p>
-<p align="left"> <a href="https://twitter.com/alriya3" target="blank"><img src="https://img.shields.io/twitter/follow/alriya3?logo=twitter&style=for-the-badge" alt="alriya3" /></a> </p> -->
+<hr style="line:0.1px solid yellow;">
 <div align="center">
-    <h3>👨‍💻 Explore My Projects</h3>
+    <div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=👨‍💻+EXPLORE+MY+PROJECTS" alt="my github stats svg" />
+    </div>
+    <br>
     <p>Check out my portfolio of projects at <a href="https://alriya-treeza-dsouza.vercel.app/">https://alriya-treeza-dsouza.vercel.app/</a></p>
 </div>
 
-<div align="center">
-    <h3>📫 Let's Connect</h3>
-    <p>Feel free to reach out to me at <strong>alriyatreeza929@gmail.com</strong></p>
-</div>
-
-<h2 align="center">Connect with me</h2>
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=📫+LET'S+CONNECT" alt="my github stats svg" />
+    </div>
+    <br>
 <p align="center">
   <a href="https://twitter.com/alriya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alriya3" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alriya-treeza-d-souza-792498224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alriya-treeza-d-souza-792498224" height="30" width="40" /></a>
   <a href="https://instagram.com/_alriya.dsouza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alriya.dsouza_" height="30" width="40" /></a>
 </p>
-<br>
-<h2 align="center">Languages and Tools</h2>
+<hr style="border:0.5px solid yellow;">
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=LANGUAGES+AND+TOOLS" alt="my github stats svg" />
+    </div>
+    <br>
 <div align="center">
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
@@ -60,12 +69,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
 </p>
-<br>
+<hr style="border:0.5px solid yellow;">
 <!--My github stats-->
 <div align="center"> 
     <img loading="lazy" width="21" align="center" src="https://github.com/alriyadsouza/alriyadsouza/assets/109797633/7e961344-c1c2-46e0-9131-f5481f604ea0" alt="pie chart png" />
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
+<br>
 <!--languages-->
 <p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--grade-->
@@ -80,13 +90,16 @@
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=alriyadsouza&bg_color=0d1117&color=00b8b5&line=f6fa00&point=232957&area=true&hide_border=true&hide_title=true">
 </div>
+<hr style="border:0.5px solid yellow;">
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+    <div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=🐍+MY+CONTRIBUTIONS+🐍" alt="my github stats svg" />
+    </div>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alriyadsouza/alriyadsouza/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
+<hr style="border:0.5px solid yellow;">
 <!--Follow-->
 <p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p>
 <!--Wave-->
