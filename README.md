@@ -15,10 +15,18 @@
 <hr style="line:0.1px solid yellow;">
 <div align="center">
     <div align="center"> 
-        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=👨‍💻+EXPLORE+MY+PROJECTS" alt="my github stats svg" />
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=👨‍💻+ABOUT+ME" alt="my github stats svg" />
     </div>
     <br>
-    <p>Check out my portfolio of projects at <a href="https://alriya-treeza-dsouza.vercel.app/">https://alriya-treeza-dsouza.vercel.app/</a></p>
+    <p>Hey there! I'm Alriya Treeza D'Souza, a passionate app developer on an exciting journey of crafting digital experiences. Just like the keys on a computer keyboard, my path in the tech world has been a mix of trial and error, each keystroke shaping my proficiency. With a diverse skill set ranging from Java and Python to Flutter and Blender, I thrive on bringing innovative ideas to life. Explore my projects and connect with me on my        
+
+[Holopin](https://holopin.me/alriya) <br>
+<br>
+or through my 
+
+[Portfolio website](https://alriya-treeza-dsouza.vercel.app/) <br>
+<br>
+Let's collaborate and create something amazing together!</p>
 </div>
 
 <div align="center"> 
