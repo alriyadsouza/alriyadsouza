@@ -80,7 +80,7 @@
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--Trophy-->
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=radical&no-bg=true&no-frame=true&row=3&column=4&rank=SSS,SS,S,AAA,AA,A,B"  alt="github profile trophy"/>
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=radical&no-bg=true&no-frame=true&row=3&column=5&rank=SSS,SS,S,AAA,AA,A,B"  alt="github profile trophy"/>
 </div><br>
 <!--Streak-->
 <p align='center'><img loading="lazy" src="https://github-readme-streak-stats-montasim.vercel.app/?user=alriyadsouza&hide_border=true&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=yellow&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=yellow&sideLabels=yellow&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /></p><br>
