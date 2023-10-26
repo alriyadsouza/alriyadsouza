@@ -85,6 +85,7 @@ Let's collaborate and create something amazing together!</p>
 <!--languages-->
 <p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--grade-->
+<!--<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza"/></p>-->
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--Trophy-->
 <div align="center">
