@@ -83,19 +83,19 @@ Let's collaborate and create something amazing together!</p>
 </div>
 <br>
 <!--languages-->
-<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alriyadsouza&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--grade-->
 <!--<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza"/></p>-->
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alriyadsouza&show_icons=true&locale=en&theme=highcontrast&hide_border=false&bg_color=0d1117&hide_title=true" alt="alriyadsouza" /></p>
 <!--Trophy-->
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=radical&no-bg=true&no-frame=true&row=1&column=5"  alt="github profile trophy"/>
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=alriyadsouza&theme=radical&no-bg=true&no-frame=false&row=1&column=5"  alt="github profile trophy"/>
 </div><br>
 <div align="center">
-        <img loading="lazy" src="https://github-contributor-stats.vercel.app/api?username=alriyadsouza&limit=5&combine_all_yearly_contributions=true&no-bg=true&no-frame=true&area=true&theme=highcontrast&hide_border=true&bg_color=0d1117"  alt="contribution repo"/>
+        <img loading="lazy" src="https://github-contributor-stats.vercel.app/api?username=alriyadsouza&limit=5&combine_all_yearly_contributions=true&no-bg=true&no-frame=true&area=true&theme=highcontrast&hide_border=false&bg_color=0d1117"  alt="contribution repo"/>
 </div><br>
 <!--Streak-->
-<p align='center'><img loading="lazy" src="https://streak-stats.demolab.com/?user=alriyadsouza&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=yellow&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=yellow&sideLabels=yellow&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /></p><br>
+<p align='center'><img loading="lazy" src="https://streak-stats.demolab.com/?user=alriyadsouza&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&ring=yellow&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=yellow&sideLabels=yellow&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /></p><br>
 <!--Graph-->
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=alriyadsouza&bg_color=0d1117&color=00b8b5&line=f6fa00&point=232957&area=true&hide_border=true&hide_title=true">
