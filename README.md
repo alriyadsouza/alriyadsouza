@@ -95,20 +95,12 @@ Let's collaborate and create something amazing together!</p>
         <img loading="lazy" src="https://github-contributor-stats.vercel.app/api?username=alriyadsouza&limit=5&combine_all_yearly_contributions=true&no-bg=true&no-frame=true&area=true&theme=highcontrast&hide_border=true&bg_color=0d1117"  alt="contribution repo"/>
 </div><br>
 <!--Streak-->
-<p align='center'><img loading="lazy" src="https://github-readme-streak-stats-montasim.vercel.app/?user=alriyadsouza&hide_border=true&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=yellow&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=yellow&sideLabels=yellow&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /></p><br>
+<p align='center'><img loading="lazy" src="https://streak-stats.demolab.com/?user=alriyadsouza&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=yellow&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=yellow&sideLabels=yellow&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" /></p><br>
 <!--Graph-->
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=alriyadsouza&bg_color=0d1117&color=00b8b5&line=f6fa00&point=232957&area=true&hide_border=true&hide_title=true">
 </div>
-<hr style="border:0.5px solid yellow;">
-<div align="center">
-    <div align="center"> 
-        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=🐍+MY+CONTRIBUTIONS+🐍" alt="my github stats svg" />
-    </div>
-  <br>
-  
-  
-</div>
+
 <hr style="border:0.5px solid yellow;">
 <!--Follow-->
 <p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p>
