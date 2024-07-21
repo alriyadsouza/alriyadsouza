@@ -36,7 +36,7 @@ Let's collaborate and create something amazing together!</p>
 <p align="center">
   <a href="https://twitter.com/alriya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alriya3" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alriya-treeza-d-souza-792498224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alriya-treeza-d-souza-792498224" height="30" width="40" /></a>
-  <a href="https://instagram.com/_alriya.dsouza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alriya.dsouza_" height="30" width="40" /></a>
+  <a href="https://instagram.com/_alriya.dsouza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alriya.dsouza_" height="30" width="40" /></a>
 </p>
 <hr style="border:0.5px solid yellow;">
 <div align="center"> 
