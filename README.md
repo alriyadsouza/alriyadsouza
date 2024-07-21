@@ -106,7 +106,7 @@ Let's collaborate and create something amazing together!</p>
         <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=🐍+MY+CONTRIBUTIONS+🐍" alt="my github stats svg" />
     </div>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alriyadsouza/alriyadsouza/output/github-contribution-grid-snake-dark.svg" />
+  
   
 </div>
 <hr style="border:0.5px solid yellow;">
