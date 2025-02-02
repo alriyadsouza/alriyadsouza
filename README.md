@@ -92,9 +92,13 @@ Let's collaborate and create something amazing together!</p>
 </div>
 
 <hr style="border:0.5px solid yellow;">
+
+
+<div align="center" style="margin: 0; padding: 0;">
+    <img src="./octocat-1738480515957.png" alt="My Custom Octocat" width="500" height="500">
+</div>
 <!--Follow-->
 <p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> <a href="https://github.com/alriyadsouza">Follow Me on Github :octocat:</a></p>
-<!--Wave-->
-<div align="center">
+<!-- <div align="center" style="margin: 0; padding: 0;">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
-</div>
+</div> -->
